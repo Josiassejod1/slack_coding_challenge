@@ -1,24 +1,11 @@
+Greeting Slack,
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Thank you for allowing me to do the challenge.
+I was not able to complete but hope my project shows that I do know how to response to http requests and structure applictions in a right manner.
 
+Since I was pressed on time these where the next things I planned to accomplish:
 
-Welcome to your Rails project on Cloud9 IDE!
+1. Use Active Record in Rails to save the board after each turn, since I was trying to figure out how to make the data remain persistent
 
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://HOSTNAME/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+2. Use cookies / Active Record to keep track of if a current game was being played
+3. Take User input and allow them to place results on the board 
