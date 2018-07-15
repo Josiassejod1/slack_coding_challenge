@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  top_left: MyString
+  top_middle: MyString
+  top_right: MyString
+  middle_left: MyString
+  middle: MyString
+  middle_right: MyString
+  bottom_left: MyString
+  bottom_middle: MyString
+  bottom_right: MyString
+
+two:
+  top_left: MyString
+  top_middle: MyString
+  top_right: MyString
+  middle_left: MyString
+  middle: MyString
+  middle_right: MyString
+  bottom_left: MyString
+  bottom_middle: MyString
+  bottom_right: MyString
