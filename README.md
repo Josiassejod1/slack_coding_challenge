@@ -1,7 +1,7 @@
 Greeting Slack,
 
 Thank you for allowing me to do the challenge.
-I was not able to complete but hope my project shows that I do know how to response to http requests and structure applictions in a right manner.
+I was not able to complete but hope my project shows that I do know how to handle  http requests and structure applictions in the right manner.
 
 Since I was pressed on time these where the next things I planned to accomplish:
 
